@@ -3,6 +3,7 @@
 Interactive **Tableau** dashboard exploring Airbnb listings data to uncover
 pricing patterns, neighborhood trends, and yearly revenue insights.
 
+![Airbnb Dashboard Preview](image/Dashboard.png)
 
 ## ✨ Overview
 This project visualizes key Airbnb metrics to help hosts, travelers,
